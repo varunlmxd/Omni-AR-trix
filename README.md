@@ -9,3 +9,5 @@ Development Tools
 * Unity 2023
 * Vuforia SDK
 * Android SDK
+
+![temp_image_20230803_161830_bfc46208-b5b2-4bdf-913e-df59f97d073e](https://github.com/varunlmxd/Omni-AR-trix/assets/104298930/fc4792d6-eadd-4e38-92e9-21015ef6d658)
